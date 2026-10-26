@@ -511,3 +511,49 @@ document.addEventListener('DOMContentLoaded', () => {
 
   renderTimeline();
 });
+  // ---------- Loader toàn trang ----------
+  (function initLoader() {
+    const loader = document.getElementById('loaderOverlay');
+    if (!loader) return;
+
+    const MAX_WAIT = 12000;   // tối đa chờ 12 giây (ảnh dung lượng lớn)
+    const MIN_SHOW = 1200;    // hiển thị tối thiểu 1.2 giây
+
+    let imagesDone = 0;
+    const imgs = Array.from(document.images).map(i => i.src).filter(Boolean);
+
+    function finish() {
+      loader.classList.add('hidden');
+      setTimeout(() => { loader.style.display = 'none'; }, 700);
+    }
+
+    // Preload từng ảnh để bắt cả ảnh lazy-load (loading="lazy")
+    const loadOne = (src) => new Promise((resolve) => {
+      const im = new Image();
+      im.onload = im.onerror = resolve;
+      im.src = src;
+    });
+
+    const t0 = Date.now();
+    Promise.all(imgs.map(loadOne)).then(() => {
+      imagesDone = imgs.length;
+      maybeFinish();
+    });
+
+    const fontReady = document.fonts ? document.fonts.ready : Promise.resolve();
+
+    function maybeFinish() {
+      const elapsed = Date.now() - t0;
+      if (imagesDone === imgs.length && elapsed >= MIN_SHOW) {
+        finish();
+      } else if (elapsed >= MAX_WAIT) {
+        finish(); // sécurité: không để treo mãi
+      } else {
+        requestAnimationFrame(maybeFinish);
+      }
+    }
+
+    Promise.all([fontReady]).then(() => {
+      maybeFinish();
+    });
+  })();

@@ -5,13 +5,15 @@ window.NK20_DATA = {
     "totalMembers": 54,
     "rosterTotal": 54
   },
-  "squads": [{
+  "squads": [
+    {
       "id": 1,
       "name": "Tiểu đội 1",
       "slogan": "Tiểu đội 1 — Tiên phong, kỷ luật, đoàn kết.",
       "description": "Tiểu đội nòng cốt với tinh thần trách nhiệm cao, luôn dẫn đầu trong huấn luyện và học tập.",
       "image": "NK20/Copy of DSC_1115_1.jpg",
-      "members": [{
+      "members": [
+        {
           "id": "td1-0",
           "name": "Giang Hải Đăng",
           "role": "",
@@ -22,7 +24,7 @@ window.NK20_DATA = {
           "noisinh": "Cà Mau",
           "unit": "ĐN2, K02",
           "phone": "0946072313",
-          "motto": ""
+          "motto": "Chúc các đồng chí thật nhiều sức khỏe, bình an, vui vẻ, hạnh phúc cùng gia đình . Chúc tất cả mọi người hoàn thành xuất sắc mọi nhiệm vụ được giao. Thân ái cháo quyết thắng! 🫡🫡"
         },
         {
           "id": "td1-1",
@@ -35,7 +37,7 @@ window.NK20_DATA = {
           "noisinh": "Tây  Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0344844125",
-          "motto": ""
+          "motto": "Cảm ơn tất cả mọi người , chúc cho tập thể lớp NK20 luôn dồi dào sức khỏe và gặt hái được nhiều thành công trong công việc!"
         },
         {
           "id": "td1-2",
@@ -61,7 +63,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "PH10, Công an tỉnh Tây Ninh",
           "phone": "0379585237",
-          "motto": ""
+          "motto": "Cám ơn thầy cô và các bạn đã đồng hành cùng e suốt thời gian qua. Chúc các đồng chí nhiều sức khỏe và hoàn thành xuất sắc mọi nhiệm vụ được giao."
         },
         {
           "id": "td1-4",
@@ -74,7 +76,7 @@ window.NK20_DATA = {
           "noisinh": "Thành phố Hồ Chí Minh",
           "unit": "Khoa Lao - Bệnh phổi - Da liễu, Bệnh viện 30-4",
           "phone": "0865607926",
-          "motto": ""
+          "motto": "Chúc mọi người sức khoẻ, hạnh phúc và thành công trong cuộc sống 🍺🍺🍺"
         },
         {
           "id": "td1-5",
@@ -87,7 +89,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PV01, Công an tỉnh Vĩnh Long",
           "phone": "0766994479",
-          "motto": ""
+          "motto": "Chúc tất cả các đồng chí luôn thành công trên con đường phía trước 🫡🫡"
         },
         {
           "id": "td1-6",
@@ -100,7 +102,7 @@ window.NK20_DATA = {
           "noisinh": "Thành phố Hồ Chí Minh",
           "unit": "Công an cửa khẩu Tân Sơn Nhất - A08",
           "phone": "0906298980",
-          "motto": ""
+          "motto": "Chúc các đồng chí luôn tràn đầy sức khoẻ và hoàn thành xuất sắc các nhiệm vụ được giao"
         },
         {
           "id": "td1-7",
@@ -113,7 +115,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PV01, Công an tỉnh Vĩnh Long",
           "phone": "0798020435",
-          "motto": ""
+          "motto": "Trong đời người, tôi gặp rất nhiều người. Một số ở lại, một số đi qua, nhưng tất cả đều để lại dấu ấn trong trái tim tôi❤️"
         },
         {
           "id": "td1-8",
@@ -126,7 +128,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "PH10, Công an tỉnh Tây Ninh",
           "phone": "0985526245",
-          "motto": ""
+          "motto": "NK20-ĐHANND - Một quãng đời kỷ niệm! Chúc tất cả các đồng chí sức khỏe, hạnh phúc và thành công!"
         },
         {
           "id": "td1-9",
@@ -139,7 +141,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0375484206",
-          "motto": ""
+          "motto": "Chúc các anh chị nhiều sức khoẻ, thành công và hoàn thành xuất sắc mọi nhiệm vụ được giao"
         }
       ]
     },
@@ -149,7 +151,8 @@ window.NK20_DATA = {
       "slogan": "Tiểu đội 2 — Vững bước, bền chí, sáng tạo.",
       "description": "Tập thể năng động, sáng tạo, đồng lòng vượt qua mọi thử thách của khóa học.",
       "image": "NK20/Copy of DSC_1124.jpg",
-      "members": [{
+      "members": [
+        {
           "id": "td2-0",
           "name": "Ninh Thị Mai Khanh",
           "role": "",
@@ -160,7 +163,7 @@ window.NK20_DATA = {
           "noisinh": "Lâm Đồng",
           "unit": "Phòng Hậu cần - Công an tỉnh Khánh Hòa",
           "phone": "0366119929",
-          "motto": ""
+          "motto": "Cảm ơn cả lớp vì đã cùng nhau tạo nên một chặng đường thật đẹp. Chia tay nhưng không chia lòng, mong mọi người luôn bình an, hạnh phúc và thành công. Mãi iu lớp mình ❤️"
         },
         {
           "id": "td2-1",
@@ -173,7 +176,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0939839833",
-          "motto": ""
+          "motto": "Em xin chúc mừng cả lớp đã hoàn thành khóa học. Em chúc thầy Lai và gia đình luôn luôn vui vẻ, hạnh phúc may mắn trong cuộc sống, lặp lại thầy Lý, và những giáo viên trong trường lúc nào cũng nhiệt huyết trong nghề, đào tạo ra những học sinh xuất sắc. Chúc mừng ban cán sự lớp đã hoàn thành xuất sắc nhiệm vụ. Trân trọng cám ơn!"
         },
         {
           "id": "td2-2",
@@ -186,7 +189,7 @@ window.NK20_DATA = {
           "noisinh": "Thành phố Hồ Chí Minh",
           "unit": "Khoa Chẩn đoán hình ảnh, Bệnh viện 30-4",
           "phone": "0835005090",
-          "motto": ""
+          "motto": "Em xin chúc tập thể lớp NK20 thật nhiều sức khoẻ và thuận lợi trên chặng đường sắp tới. Em cảm ơn mọi người ạ."
         },
         {
           "id": "td2-3",
@@ -199,7 +202,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0399878118",
-          "motto": ""
+          "motto": "Tốt nghiệp hôm nay là cột mốc đánh dấu sự trưởng thành về lý luận và thực tiễn; chúc tập thể lớp chúng ta luôn hoàn thành xuất sắc nhiệm vụ, đóng góp hết mình cho sự nghiệp chung và gặt hái nhiều thành công mới!"
         },
         {
           "id": "td2-4",
@@ -212,7 +215,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0364803319",
-          "motto": ""
+          "motto": "Thanh xuân không trọn vẹn vì có những nuối tiếc, nhưng trọng vẹn vi chúng ta đã trải qua cùng nhau"
         },
         {
           "id": "td2-5",
@@ -225,7 +228,7 @@ window.NK20_DATA = {
           "noisinh": "Đắk Lắk",
           "unit": "",
           "phone": "0903202192",
-          "motto": ""
+          "motto": "Chúc các đồng chí mạnh khỏe, luôn tràn đầy nhiệt huyết, vững vàng và bản lĩnh trong công tác. Chúc thành công!"
         },
         {
           "id": "td2-6",
@@ -251,7 +254,7 @@ window.NK20_DATA = {
           "noisinh": "Thành phố Hồ Chí Minh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0769843977",
-          "motto": ""
+          "motto": "Gửi NK20 – Một thời thanh xuân đáng nhớ! ❤️ Chúc tất cả anh chị em NK20 luôn mạnh khỏe, vững vàng, hoàn thành xuất sắc mọi nhiệm vụ và giữ mãi ngọn lửa nhiệt huyết"
         },
         {
           "id": "td2-8",
@@ -264,7 +267,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "ĐN2, K02",
           "phone": "0367801670",
-          "motto": ""
+          "motto": "Chúc mỗi người trong tập thể đều có một bản lĩnh riêng, một dấu ấn riêng, nhưng cùng chung một điều không đổi: sống xứng đáng với màu áo mình mang."
         },
         {
           "id": "td2-9",
@@ -277,7 +280,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0377285682",
-          "motto": ""
+          "motto": "\" Triệu hạt mưa rơi không hạt nào rơi nhầm chỗ, những người ta gặp không người nào là ngẫu nhiên \". Chúc các đồng chí NK20 nhiều sức khoẻ và thành công./."
         },
         {
           "id": "td2-10",
@@ -290,7 +293,7 @@ window.NK20_DATA = {
           "noisinh": "Nghệ An",
           "unit": "TTHL2, K02",
           "phone": "0356721606",
-          "motto": ""
+          "motto": "Gặp nhau là duyên, đồng hành là ký ức, chia xa là để trưởng thành. Chúc tất cả chúng ta vươn xa và rực rỡ!"
         }
       ]
     },
@@ -300,7 +303,8 @@ window.NK20_DATA = {
       "slogan": "Tiểu đội 3 — Đồng lòng, quyết thắng.",
       "description": "Sức mạnh của sự đoàn kết và ý chí chiến đấu không ngừng nghỉ.",
       "image": "NK20/Copy of DSC_1130.jpg",
-      "members": [{
+      "members": [
+        {
           "id": "td3-0",
           "name": "Nguyễn Thanh Duy",
           "role": "",
@@ -311,7 +315,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "ĐN2, K02",
           "phone": "0346446464",
-          "motto": ""
+          "motto": "Chúc tập thể lớp NK20 luôn giữ được cái đầu lạnh và trái tim nóng để chinh phục những đỉnh cao mới trong sự nghiệp ❤️"
         },
         {
           "id": "td3-1",
@@ -324,7 +328,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0352979292",
-          "motto": ""
+          "motto": "Cảm ơn tất cả các đồng chí, các bạn đã cùng nhau chia sẻ niềm vui, nỗi buồn, những lúc khó khăn và cả những tiếng cười trong suốt thời gian qua. Dù sau này mỗi người sẽ trở về một đơn vị, một công việc và một con đường riêng, tôi mong rằng chúng ta vẫn sẽ luôn nhớ về nhau với những tình cảm tốt đẹp nhất.\n\nChúc tất cả mọi người luôn mạnh khỏe, hạnh phúc, hoàn thành xuất sắc mọi nhiệm vụ được giao và vững bước trên con đường phía trước. Mong rằng dù thời gian có trôi qua, chúng ta vẫn giữ mãi tình cảm anh em, đồng chí đã có trong những ngày tháng học tập cùng nhau.\n\nChia tay hôm nay không phải là kết thúc, mà là khởi đầu cho những hành trình mới. Chúc tập thể lớp chúng ta luôn đoàn kết, thành công và mãi là một phần ký ức đẹp trong lòng mỗi người!"
         },
         {
           "id": "td3-2",
@@ -334,10 +338,10 @@ window.NK20_DATA = {
           "dob": "24-07-1985",
           "gender": "Nữ",
           "hometown": "Phú Thọ",
-          "noisinh": "Phú Thọ",
+          "noisinh": "Gia Lai",
           "unit": "Trại tạm giam số 2, Công an tỉnh Gia Lai",
           "phone": "0935454677",
-          "motto": ""
+          "motto": "Tạm biệt không phải là kết thúc mà là lời hẹn gặp lại. Mong rằng nhiều năm sau, khi mở lại trang kỷ yếu này chúng ta vẫn có thể mỉm cười và nói \" Thật may mắn vì thanh xuân năm ấy chúng ta đã có nhau\" ❤️"
         },
         {
           "id": "td3-3",
@@ -350,7 +354,7 @@ window.NK20_DATA = {
           "noisinh": "Lâm Đồng",
           "unit": "E07, K02",
           "phone": "0979209813",
-          "motto": ""
+          "motto": "Trải qua những ngày tháng ngày thanh xuân đấy, điều còn lại duy nhất là những điều tốt đẹp về nhau💕"
         },
         {
           "id": "td3-4",
@@ -363,7 +367,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0854466675",
-          "motto": ""
+          "motto": "Chúc tập thể NK20 luôn thật nhiều sức khỏe, may mắn, thành công trong công việc, hoàn thành xuất sắc nhiệm vụ được giao! Quyết thắng ❤️"
         },
         {
           "id": "td3-5",
@@ -376,7 +380,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PC09, Công an tỉnh Vĩnh Long",
           "phone": "0939283269",
-          "motto": ""
+          "motto": "Chúc các đồng chí trong lớp luôn công tác tốt trên mọi cương vị, mọi vị trí trong lực lượng. Chào thi đua quyết thắng."
         },
         {
           "id": "td3-6",
@@ -387,9 +391,9 @@ window.NK20_DATA = {
           "gender": "Nữ",
           "hometown": "Đà Nẵng",
           "noisinh": "Đà Nẵng",
-          "unit": "Công an xã Đại Lộc - Công an thành phố Đà Nẵng",
+          "unit": "Công an xã Đại Lộc - Thành phố Đà Nẵng",
           "phone": "0789462655",
-          "motto": ""
+          "motto": "Chúc tất cả chúng ta chân cứng đá mềm, sự nghiệp thành công, cuộc sống bình an và luôn tự hào về những tháng ngày đã cùng nhau đi qua."
         },
         {
           "id": "td3-7",
@@ -402,7 +406,7 @@ window.NK20_DATA = {
           "noisinh": "Cần Thơ",
           "unit": "E10, K02",
           "phone": "0907473559",
-          "motto": ""
+          "motto": "Chúc các đồng chí luôn mạnh khoẻ, hạnh phúc, thành công trong công việc và cuộc sống!"
         },
         {
           "id": "td3-8",
@@ -412,10 +416,10 @@ window.NK20_DATA = {
           "dob": "11-06-2000",
           "gender": "Nam",
           "hometown": "Hưng Yên",
-          "noisinh": "Kiên Giang",
+          "noisinh": "An Giang",
           "unit": "Khoa Tiêu hóa - máu - nội tiết, Bệnh viện 30-4",
           "phone": "0834513199",
-          "motto": ""
+          "motto": "Chúc các đồng chí thật nhiều sức khoẻ, công tác thật tốt!!"
         },
         {
           "id": "td3-9",
@@ -428,7 +432,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0706346000",
-          "motto": ""
+          "motto": "♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️ Chúc mọi người nhiều sức khỏe và thành công"
         },
         {
           "id": "td3-10",
@@ -441,7 +445,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0385631764",
-          "motto": ""
+          "motto": "Cảm ơn tất cả mọi người , chúc cho tập thể lớp NK20 luôn dồi dào sức khỏe và gặt hái được nhiều thành công trong công việc!"
         }
       ]
     },
@@ -451,7 +455,8 @@ window.NK20_DATA = {
       "slogan": "Tiểu đội 4 — Bản lĩnh, trách nhiệm.",
       "description": "Những chiến sĩ trẻ với bản lĩnh vững vàng và tinh thần phục vụ nhân dân.",
       "image": "NK20/Copy of DSC_1137.jpg",
-      "members": [{
+      "members": [
+        {
           "id": "td4-0",
           "name": "Bùi Thị Xuân Huyền",
           "role": "",
@@ -462,7 +467,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0396014365",
-          "motto": ""
+          "motto": "Một chặng đường học tập, rèn luyện cùng nhau rồi cũng đến lúc khép lại. \nChúc các đồng chí luôn vững vàng, đoàn kết, hoàn thành xuất sắc mọi nhiệm vụ và dù ở bất cứ vị trí nào, chúng ta vẫn nhớ về một tập thể đã từng đồng hành! 🇻🇳"
         },
         {
           "id": "td4-1",
@@ -475,7 +480,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0786890877",
-          "motto": ""
+          "motto": "Chúc mừng tập thể NK20 hoàn thành xuất sắc nhiệm vụ học tập và tiếp tục xuất sắc hoàn thành mọi nhiệm vụ được giao"
         },
         {
           "id": "td4-2",
@@ -488,7 +493,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0825454595",
-          "motto": ""
+          "motto": "Gắn bó với nhau không ngắn cũng không dài, kỷ niệm về nhau không ít cũng nhiều, chúc các chị các anh các bạn sống, chiến đấu, hy sinh vì lý tưởng, hoàn thành tốt nhiệm vụ, sớm trở lại gặp nhau ở cấp cao hơn. Lời cuối kính chúc đại gia đình NK20 luôn vui, khỏe và hạnh phúc, thành công trong công việc và cuộc sống. Thân ái và quyết thắng! 🫡🫡🫡"
         },
         {
           "id": "td4-3",
@@ -501,7 +506,7 @@ window.NK20_DATA = {
           "noisinh": "Thành phố Hồ Chí Minh",
           "unit": "Trại tạm giam B34, A09",
           "phone": "0961370173",
-          "motto": ""
+          "motto": "Xin chúc gia đình NK20 luôn hoàn thành xuất sắc nhiệm vụ và tương lai sẽ mãi nhớ về nhau."
         },
         {
           "id": "td4-4",
@@ -514,7 +519,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0329232889",
-          "motto": ""
+          "motto": "Thanh xuân có thể qua đi, nhưng tình đồng chí NK20 sẽ mãi còn. Chúc NK20 chúng ta luôn vững bước, không quên những ngày tháng đã cùng nhau"
         },
         {
           "id": "td4-5",
@@ -527,7 +532,7 @@ window.NK20_DATA = {
           "noisinh": "Đà Nẵng",
           "unit": "Trại Tạm giam số 1, Công an thành phố Đà Nẵng",
           "phone": "0889383956",
-          "motto": ""
+          "motto": "Chúc mọi người có tất cả trừ vất vả nhé ❤️❤️❤️"
         },
         {
           "id": "td4-6",
@@ -540,7 +545,7 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0907351356",
-          "motto": ""
+          "motto": "Học tập hết mình – Đoàn kết hết sức – Nhiệm vụ hoàn thành – Tình nghĩa vẹn nguyên!"
         },
         {
           "id": "td4-7",
@@ -553,7 +558,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "PH10, Công an tỉnh Tây Ninh",
           "phone": "0984275725",
-          "motto": ""
+          "motto": "Chúc mừng tập thể NK20 đã hoàn thành tốt nhiệm vụ học tập, kính chúc các đồng chí cùng gia đình nhiều sức khỏe, hạnh phúc, thành công trong công việc và cuộc sống!"
         },
         {
           "id": "td4-8",
@@ -566,7 +571,7 @@ window.NK20_DATA = {
           "noisinh": "Gia Lai",
           "unit": "Phòng PA06 - Công an tỉnh Gia Lai",
           "phone": "0326310527",
-          "motto": ""
+          "motto": "Chúc tập thể lớp NK20 mạnh khoẻ, bình an và hoàn thành xuất sắc mọi nhiệm vụ được giao😍😍😍"
         },
         {
           "id": "td4-9",
@@ -579,7 +584,7 @@ window.NK20_DATA = {
           "noisinh": "Thanh Hoá",
           "unit": "TTHL2, K02",
           "phone": "0966650113",
-          "motto": ""
+          "motto": "Chúc các đ/c và gia đình luôn mạnh khoẻ, vui vẻ, và hạnh phúc, luôn thành công trên con đường sự nghiệp"
         },
         {
           "id": "td4-10",
@@ -602,7 +607,8 @@ window.NK20_DATA = {
       "slogan": "Tiểu đội 5 — Nhiệt huyết, tự hào.",
       "description": "Tuổi trẻ đầy nhiệt huyết, khát vọng cống hiến cho sự nghiệp an ninh.",
       "image": "NK20/Copy of DSC_1142.jpg",
-      "members": [{
+      "members": [
+        {
           "id": "td5-0",
           "name": "Lê Chí Dững",
           "role": "",
@@ -613,7 +619,7 @@ window.NK20_DATA = {
           "noisinh": "An Giang",
           "unit": "ĐN2, K02",
           "phone": "0984205503",
-          "motto": ""
+          "motto": "Chúc các đồng chí thật nhiều sức khoẻ và hoàn thành xuất sắc mọi nhiệm vụ được giao."
         },
         {
           "id": "td5-1",
@@ -652,7 +658,7 @@ window.NK20_DATA = {
           "noisinh": "Hải Phòng",
           "unit": "Công an cửa khẩu Tân Sơn Nhất - A08",
           "phone": "0906279668",
-          "motto": ""
+          "motto": "Chia tay thì cũng buồn thật đấy,nhưng nghĩ đến cảnh sáng mai không phải dậy sớm chạy deadline hay ôn thi thì... Cũng đỡ buồn hơn một chút."
         },
         {
           "id": "td5-4",
@@ -665,7 +671,7 @@ window.NK20_DATA = {
           "noisinh": "An Giang",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0948277707",
-          "motto": ""
+          "motto": "Chúc các đồng chí nhiều sức khoẻ bình an, hạnh phúc cùng gia đình."
         },
         {
           "id": "td5-5",
@@ -678,7 +684,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0912887792",
-          "motto": ""
+          "motto": "Em xin chân thành cảm ơn mọi người đã quan tâm, chỉ bảo, sẻ chia và cùng em đi qua một chặng đường đáng nhớ. Em sẽ luôn giữ trong tim và mong mọi người có một chặng đường công tác bình an và nhiều sức khoẻ ạ❤️"
         },
         {
           "id": "td5-6",
@@ -691,7 +697,7 @@ window.NK20_DATA = {
           "noisinh": "Đắk Lắk",
           "unit": "",
           "phone": "0971016886",
-          "motto": ""
+          "motto": "Chúc các đồng chí sức, bản lĩnh trong công việc, thành công trong cuộc sống!"
         },
         {
           "id": "td5-7",
@@ -704,7 +710,7 @@ window.NK20_DATA = {
           "noisinh": "Đồng Tháp",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0965803880",
-          "motto": ""
+          "motto": "Chúc các đồng chí lớp NK 20 vững tin trên chặng đường mới ❤️❤️❤️"
         },
         {
           "id": "td5-8",
@@ -717,7 +723,7 @@ window.NK20_DATA = {
           "noisinh": "Tây Ninh",
           "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
           "phone": "0949054525",
-          "motto": ""
+          "motto": "em sẽ luôn giữ trong tim và mong mọi người có một chặng đường công tác bình an và nhiều sức khoẻ ạ❤️"
         },
         {
           "id": "td5-9",
@@ -730,13 +736,37 @@ window.NK20_DATA = {
           "noisinh": "Vĩnh Long",
           "unit": "PH10, Công an tỉnh Vĩnh Long",
           "phone": "0933918080",
-          "motto": ""
+          "motto": "Chúc tập thể NK20 luôn luôn mạnh khỏe, hoàn thành xuất sắc mọi nhiệm vụ được giao! Quyết thắng ❤️"
         }
       ]
     }
   ],
-  "gallery": ["NK20/700b45df-0439-4164-935d-6ccd43a6ce89.jpg", "NK20/98427583-65df-456d-af61-05a152c7f881.jpg", "NK20/Copy of DSC_0992.JPG", "NK20/Copy of DSC_1008.JPG", "NK20/Copy of DSC_1038_1.JPG", "NK20/Copy of DSC_1043.JPG", "NK20/Copy of DSC_1055.JPG", "NK20/Copy of DSC_1066_1.JPG", "NK20/Copy of DSC_1073_1.JPG", "NK20/Copy of DSC_1083_1.JPG", "NK20/Copy of DSC_1093_1.JPG", "NK20/Copy of DSC_1109_1.JPG", "NK20/Copy of DSC_1115_1.JPG", "NK20/Copy of DSC_1124.JPG", "NK20/Copy of DSC_1130.JPG", "NK20/Copy of DSC_1137.JPG", "NK20/Copy of DSC_1142.JPG", "NK20/Copy of DSC_1150.JPG", "NK20/Copy of DSC_1153.JPG", "NK20/Copy of DSC_1162.JPG", "NK20/Copy of DSC_1170.JPG", "NK20/NK20.png"],
-  "timeline": [{
+  "gallery": [
+    "NK20/700b45df-0439-4164-935d-6ccd43a6ce89.jpg",
+    "NK20/98427583-65df-456d-af61-05a152c7f881.jpg",
+    "NK20/Copy of DSC_0992.JPG",
+    "NK20/Copy of DSC_1008.JPG",
+    "NK20/Copy of DSC_1038_1.JPG",
+    "NK20/Copy of DSC_1043.JPG",
+    "NK20/Copy of DSC_1055.JPG",
+    "NK20/Copy of DSC_1066_1.JPG",
+    "NK20/Copy of DSC_1073_1.JPG",
+    "NK20/Copy of DSC_1083_1.JPG",
+    "NK20/Copy of DSC_1093_1.JPG",
+    "NK20/Copy of DSC_1109_1.JPG",
+    "NK20/Copy of DSC_1115_1.JPG",
+    "NK20/Copy of DSC_1124.JPG",
+    "NK20/Copy of DSC_1130.JPG",
+    "NK20/Copy of DSC_1137.JPG",
+    "NK20/Copy of DSC_1142.JPG",
+    "NK20/Copy of DSC_1150.JPG",
+    "NK20/Copy of DSC_1153.JPG",
+    "NK20/Copy of DSC_1162.JPG",
+    "NK20/Copy of DSC_1170.JPG",
+    "NK20/NK20.png"
+  ],
+  "timeline": [
+    {
       "year": "2022",
       "title": "Nhập học & Khai giảng",
       "desc": "Các học viên NK20 chính thức khoác lên mình sắc phục An ninh, bắt đầu hành trình rèn luyện."
@@ -762,23 +792,24 @@ window.NK20_DATA = {
       "desc": "Khép lại quãng đời sinh viên, bước vào sứ mệnh bảo vệ an ninh Tổ quốc."
     }
   ],
-  "teachers": [{
+  "teachers": [
+    {
       "name": "Thầy Ngô Ngọc Lai",
       "image": "TieuDoi/Thầy chủ nhiệm.jpg",
       "role": "Chủ nhiệm trung đội",
       "rank": "Thượng tá",
-      "position": "Phó trưởng phong - Chủ nhiệm trung đội NK20",
+      "position": "Phó trưởng phòng - Chủ nhiệm trung đội NK20",
       "phone": "0395668998",
-      "motto": "Thầy rất yêu và quý các em. Thầy chúc đại gia đình NK20 luôn yêu nhau, quý nhau, luôn đoàn kết và nhiều thành công hạnh phúc trong cuộc sống. Yêu các em nhiều."
+      "motto": "Thầy rất yêu quý các em. Thầy chúc đại gia đình NK20 luôn yêu nhau, quý nhau, luôn đoàn kết và nhiều thành công hạnh phúc trong cuộc sống. Yêu các em nhiều."
     },
     {
       "name": "Thầy Hà Xuân Lý",
       "image": "TieuDoi/Thầy nguyên chủ nhiệm.jpg",
       "role": "Nguyên chủ nhiệm trung đội",
       "rank": "Trung tá",
-      "position": "Cán bộ - Nguyên Chủ nhiệm trung đội NK20",
+      "position": "Trung tá - Nguyên Chủ nhiệm trung đội NK20",
       "phone": "0976046003",
-      "motto": "Thầy chúc cả nhà NK20 luôn mạnh khỏe, công tác tốt và nhiều may mắn trong cuộc sống, mong sớm gặp lại các bạn ở bậc học cao hơn 🥰"
+      "motto": "Thầy chúc cả nhà NK20 luôn mạnh khỏe, công tác tốt và nhiều may mắn trong cuộc sống, mong sơm gặp lại các bạn ở bậc học cao hơn 🥰"
     },
     {
       "name": "Thầy Trần Hoàng Anh",
@@ -790,7 +821,8 @@ window.NK20_DATA = {
       "motto": "Mong rằng những ngày tháng học tập ở mái trường này sẽ là kỷ niệm đẹp cho chặng đường công tác tiếp theo. Chúc các thành viên NK20 và gia đình luôn mạnh khoẻ, bình an và hạnh phúc."
     }
   ],
-  "officers": [{
+  "officers": [
+    {
       "name": "Ngô Hoàng Mỹ",
       "role": "Trung đội trưởng",
       "image": "TieuDoi/TĐ3/Ngô Hoàng Mỹ (1).jpg",
@@ -800,7 +832,7 @@ window.NK20_DATA = {
       "noisinh": "Cần Thơ",
       "unit": "E10, K02",
       "phone": "0907473559",
-      "motto": ""
+      "motto": "Chúc các đồng chí luôn mạnh khoẻ, hạnh phúc, thành công trong công việc và cuộc sống!"
     },
     {
       "name": "Phạm Văn Hùng",
@@ -812,7 +844,7 @@ window.NK20_DATA = {
       "noisinh": "Thanh Hoá",
       "unit": "TTHL2, K02",
       "phone": "0966650113",
-      "motto": ""
+      "motto": "Chúc các đ/c và gia đình luôn mạnh khoẻ, vui vẻ, và hạnh phúc, luôn thành công trên con đường sự nghiệp"
     },
     {
       "name": "Ninh Thị Mai Khanh",
@@ -824,7 +856,7 @@ window.NK20_DATA = {
       "noisinh": "Lâm Đồng",
       "unit": "Phòng Hậu cần - Công an tỉnh Khánh Hòa",
       "phone": "0366119929",
-      "motto": ""
+      "motto": "Cảm ơn cả lớp vì đã cùng nhau tạo nên một chặng đường thật đẹp. Chia tay nhưng không chia lòng, mong mọi người luôn bình an, hạnh phúc và thành công. Mãi iu lớp mình ❤️"
     },
     {
       "name": "Châu Thiên Mẫn",
@@ -836,10 +868,11 @@ window.NK20_DATA = {
       "noisinh": "Tây Ninh",
       "unit": "Trại tạm giam số 2, Công an tỉnh Tây Ninh",
       "phone": "0352979292",
-      "motto": ""
-    },
+      "motto": "Cảm ơn tất cả các đồng chí, các bạn đã cùng nhau chia sẻ niềm vui, nỗi buồn, những lúc khó khăn và cả những tiếng cười trong suốt thời gian qua. Dù sau này mỗi người sẽ trở về một đơn vị, một công việc và một con đường riêng, tôi mong rằng chúng ta vẫn sẽ luôn nhớ về nhau với những tình cảm tốt đẹp nhất.\n\nChúc tất cả mọi người luôn mạnh khỏe, hạnh phúc, hoàn thành xuất sắc mọi nhiệm vụ được giao và vững bước trên con đường phía trước. Mong rằng dù thời gian có trôi qua, chúng ta vẫn giữ mãi tình cảm anh em, đồng chí đã có trong những ngày tháng học tập cùng nhau.\n\nChia tay hôm nay không phải là kết thúc, mà là khởi đầu cho những hành trình mới. Chúc tập thể lớp chúng ta luôn đoàn kết, thành công và mãi là một phần ký ức đẹp trong lòng mỗi người!"
+    }
   ],
-  "activities": [{
+  "activities": [
+    {
       "id": "hd-1",
       "title": "Tập thể",
       "caption": "Cả đội cùng chill, nụ cười không tắt! 😄",
@@ -852,9 +885,7 @@ window.NK20_DATA = {
         "HoatDong/37_Tập thể.png",
         "HoatDong/39_Tập thể.png",
         "HoatDong/69_Tập thể.jpg",
-        "HoatDong/70_Tập thể.jpg",
-        "HoatDong/71_Tập thể.jpg",
-        "HoatDong/72_Tập thể.jpg",
+        "HoatDong/70_Tập thể.jpg"
       ],
       "videos": [],
       "captions": [
@@ -1003,7 +1034,7 @@ window.NK20_DATA = {
         "HoatDong/65_Góc nhìn.jpg",
         "HoatDong/66_Góc nhìn.jpg",
         "HoatDong/67_Góc nhìn.jpg",
-        "HoatDong/68_Góc nhìn.jpg",
+        "HoatDong/68_Góc nhìn.jpg"
       ],
       "videos": [],
       "captions": [
